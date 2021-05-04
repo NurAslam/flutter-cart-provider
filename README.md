@@ -1,7 +1,14 @@
 # provider_test
 
-![WhatsApp Image 2021-05-04 at 09 21 58](https://user-images.githubusercontent.com/56910391/117037562-782cdd00-acbb-11eb-92de-5e7171d96283.jpeg)
-![WhatsApp Image 2021-05-04 at 09 21 58](https://user-images.githubusercontent.com/56910391/117037568-7a8f3700-acbb-11eb-8f4b-0bd3f847aa41.jpeg)
+
+Halaman Utama
+![WhatsApp Image 2021-05-04 at 09 21 58](https://user-images.githubusercontent.com/56910391/117037619-8bd84380-acbb-11eb-929c-1c62d9000967.jpeg)
+
+Detail Halaman
+![WhatsApp Image 2021-05-04 at 09 21 58 (1)](https://user-images.githubusercontent.com/56910391/117037667-998dc900-acbb-11eb-93b3-99212afc7777.jpeg)
+
+
+
 
 A new Flutter project.
 
